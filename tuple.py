@@ -1,0 +1,6 @@
+tuple = (10,20,15.5,'vijay','Mary')
+print(tuple[0])
+print(tuple[0:3])
+print(tuple)
+print(tuple[-1])
+print(tuple*2)
